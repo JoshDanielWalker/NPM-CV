@@ -10,5 +10,5 @@ Open Terminal and type:
 Make sure to have Node installed.
 
 ```
-  npx maks-dev-resume
+  npx joshuawalker-dev-resume
 ```
