@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "maks-dev-resume": "./index.js"
+    "joshua-daniel-walker": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
