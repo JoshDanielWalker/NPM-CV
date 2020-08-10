@@ -8,5 +8,5 @@ Dependency -  Node
 Open Terminal and type:
 
 ```
-  npx joshuawalker-dev-resume
+  npx  joshua_daniel_walker_npm_cv
 ```

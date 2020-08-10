@@ -1,7 +1,7 @@
 {
-  "name": "Joshua Daniel Walker - NPM CV",
-  "version": "2.0.1",
-  "description": "",
+  "name": "joshua_daniel_walker_npm_cv",
+  "version": "1.0.0",
+  "description": "Hi, I’m Joshua Daniel Walker. I’m a DevOps Engineer.",
   "main": "index.js",
   "bin": {
     "joshua-daniel-walker": "./index.js"
