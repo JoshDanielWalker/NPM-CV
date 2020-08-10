@@ -6,7 +6,10 @@
   "main": "index.js",
   "license": "ISC",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+<<<<<<< HEAD
   "repository": "git@github.com:JoshDanielWalker/NPM-CV.git",
+=======
+>>>>>>> fd149104a4abf7d9f5df177b3d219a9178faecb7
   "bin": {
     "joshua-daniel-walker": "./index.js"
   },
