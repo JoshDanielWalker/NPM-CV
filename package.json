@@ -5,7 +5,9 @@
   "description": "Hi, I’m Joshua Daniel Walker. I’m a DevOps Engineer.",
   "main": "index.js",
   "license": "ISC",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": "git@github.com:JoshDanielWalker/NPM-CV.git",
   "bin": {
     "joshua-daniel-walker": "./index.js"
