@@ -1,6 +1,6 @@
 {
-  "name": "joshua_daniel_walker_npm_cv",
-  "version": "3.0.0",
+  "name": "@joshdanielwalker/joshua_daniel_walker_npm_cv",
+  "version": "4.0.0",
   "author": "Joshua Daniel Walker",
   "description": "Hi, I’m Joshua Daniel Walker. I’m a DevOps Engineer.",
   "main": "index.js",
